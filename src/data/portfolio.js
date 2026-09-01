@@ -160,7 +160,7 @@ export const certifications = [
   {
     org: 'Microsoft',
     name: 'Power BI Data Analyst Associate (PL-300)',
-    date: 'Dec 2024 – Dec 2026',
+    date: 'Dec 2024 – Dec 2027',
     url: 'https://learn.microsoft.com/en-us/users/bhavyapriyan-0550/credentials/dd99b8a5bc112925',
   },
 ]
