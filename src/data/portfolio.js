@@ -154,7 +154,7 @@ export const certifications = [
   {
     org: 'Microsoft',
     name: 'Fabric Data Engineer Associate (DP-700)',
-    date: 'Jun 2025 – Jun 2026',
+    date: 'Sep 2026 – Sep 2027',
     url: 'https://learn.microsoft.com/en-us/users/bhavyapriyan-0550/credentials/cddb8f865c1d3668',
   },
   {
